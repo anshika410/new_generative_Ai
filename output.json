@@ -1,0 +1,24 @@
+[
+  {
+    "problem_statement": "Given an array of integers, return the sum of all the even numbers in the array.",
+    "inputs": [
+      [1, 2, 3, 4, 5],
+      [10, 20, 30, 40, 50]
+    ],
+    "expected_output": [
+      6,
+      150
+    ]
+  },
+  {
+    "problem_statement": "Given a string, return a new string with all the vowels removed.",
+    "inputs": [
+      "hello world",
+      "javascript"
+    ],
+    "expected_output": [
+      "hll wrld",
+      "jvscrpt"
+    ]
+  }
+]
